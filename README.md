@@ -1,6 +1,6 @@
-# iso-creator
+# browser-disk-image-creator
 
-Create ISO disk image files in your browser.
+Create ISO & IMG disk image files in your browser.
 
 ## Usage
 
@@ -10,7 +10,7 @@ Use the `Add folder` or `Add files` button to import the contents of a folder or
 
 Files and folders can be renamed or deleted from the file list.
 
-Click the `Download` button to save the `.iso` file to your device.
+Click the `Download` button to save the `.iso` or `.img` file to your device.
 
 ## Notes
 
